@@ -13,6 +13,7 @@
 - Back in History: `H`
 - Forward in History: `L`
 - Show Links (Hint Mode): `f` (then press the key noted in red by the link you want to follow; it'll show as uppercase but that's just for visual clarity)
+- Hint Mode but open links in a background tab: `F`
 - Go to Text Field: `gi` (probably better to just use Hint Mode)
 - Find on Page: `/`
 - List Tabs: `b` (lists all open tabs and numbers them; type the number + Enter to go to it)
