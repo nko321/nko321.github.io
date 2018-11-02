@@ -1,0 +1,2 @@
+# Delete ALL Azure AD Apps - Useful as of 2018-10-31 because I'm trying to keep that clean
+Get-AzureRmADApplication | remove-AzureRmADApplication -Force

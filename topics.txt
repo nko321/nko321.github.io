@@ -1,0 +1,57 @@
+Computer Boot Camp
+	- Hardware overview
+		- How stuff connects and talks
+		- How to identify parts
+	- High level software overview
+		- Windows
+			- Files and folders
+				- Standard folder structure
+			- Storage devices
+			- Executable vs nonexecutable data
+			- Device handling, drivers
+			- Powershell
+		- Linux
+			- Files and directories
+				- Standard hierarchy
+			- Storage devices / their representative files
+			- Executables, scripts, data
+			- Device configuration and files
+			- bash
+	- Coding
+		- C
+			- TBD
+		- Scripting with bash, Powershell, Python
+			- TBD
+	- Networking
+		- The OSI model
+		- IPv4 / IP and TCP
+			- Anding, netmasks
+		- Routing
+		- Firewalls and NAT
+		- DHCP
+		- DNS
+			- Record types
+		- VPNs
+		- A bit about IPv6
+	- Common applications
+		- Terminal emulator
+		- Web browser
+		- Text editor
+		- Music player
+		- Torrent manager
+		- Games
+		- Email
+		- File manager
+		- Chat
+		- Source code management
+	- Emulation and Virtualization
+		- Games
+		- VMs
+		- Bochs
+	- Security / DADA
+		- Social engineering
+		- Sniffing out BS
+		- XSS
+		- Phishing
+		- AV, Antimalware, etc
+
