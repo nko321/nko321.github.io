@@ -19,6 +19,7 @@
 - List Tabs: `b` (lists all open tabs and numbers them; type the number + Enter to go to it)
 - Add Bookmark: `A`
 - Reader Mode: `gr` (Tridactyl will stop working)
+- Ignore Mode: `Shift+Insert` (Basically turns off Tridactyl; useful for keyboard-enabled sites like Gmail)
 
 ## VS Code
 
@@ -34,6 +35,7 @@
 - Scroll View Down: `Ctrl+Down`
 - Next Editor (Open File): `Ctrl+PgDown` (By default, Ctrl+Tab seems like the intuitive way to do this, and it works, but it sorts based on which file was most recently used, and that's not very easy to use)
 - Previous Editor (Open File): `Ctrl+PgUp`
+- Switch Between Terminal and Editor: ``Ctrl+` `` (this can conflict with ConEmu so I go into the settings in ConEmu and turn it off)
 
 ## Microsoft Teams
 
