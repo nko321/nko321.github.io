@@ -29,5 +29,25 @@
 - Open / Hide Explorer: `Ctrl+Shift+E`
 - Open / Hide Sidebar: `Ctrl+B`
 - Multi-Cursor: `Ctrl+Alt+Shift` (then use the arrow keys, works like selecting)
+- Set Syntax HL Language: `Ctrl+K, M` (then start typing the name of the language, it'll appear in the list)
+- Scroll View Up: `Ctrl+Up`
+- Scroll View Down: `Ctrl+Down`
+- Next Editor (Open File): `Ctrl+PgDown` (By default, Ctrl+Tab seems like the intuitive way to do this, and it works, but it sorts based on which file was most recently used, and that's not very easy to use)
+- Previous Editor (Open File): `Ctrl+PgUp`
+
+## Microsoft Teams
+
+- Show Keyboard Shortcuts: `Ctrl+.`
+- Expand Compose Box: `Ctrl+Shift+X`
+- Reply: `r`
+- Send Composed Message: `Ctrl+Enter`
+- Go to Chat: `Ctrl+2`
+- Go to Teams: `Ctrl+3`
+- Previous List Item: `Alt+Up`
+- Next List Item: `Alt+Down`
+
+## ConEmu
+
+- New Console Window: `Win+W`
 
 [Tridactyl]: https://github.com/tridactyl/tridactyl
