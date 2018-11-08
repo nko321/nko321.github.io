@@ -1,0 +1,55 @@
+L1
+
+Firefox
+Google
+Gmail
+Google Calendar
+Windows
+Outlook
+Word
+Excel
+OneNote
+
+L2
+
+Duck Duck Go
+uBlock Origin
+Privacy Badger
+DecentralEyes
+Teams
+OneDrive
+Office365
+
+L3
+
+Notepad
+RDP
+Powershell
+Debian
+Bash
+nano
+MS Access
+
+L4
+
+Notepad++
+ConEmu
+VS Code
+RDMan
+Vim
+Tridactyl
+Git
+Virtualbox
+Hyper-V
+Openbox
+Microsoft SQL Server
+
+L5
+
+wmctrl
+Markdown
+Vagrant
+Packer
+Azure
+Cloudstack
+Terraform

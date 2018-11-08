@@ -27,6 +27,7 @@
 - New File: `Ctrl+N`
 - Open File: `Ctrl+O`
 - Open Folder: `Ctrl+Shift+O`
+- Close Folder: `Ctrl+K+F`
 - Open / Hide Explorer: `Ctrl+Shift+E`
 - Open / Hide Sidebar: `Ctrl+B`
 - Multi-Cursor: `Ctrl+Alt+Shift` (then use the arrow keys, works like selecting)
